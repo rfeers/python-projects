@@ -10,10 +10,10 @@ Welcome to the Python Projects Repository! This repository is a collection of di
 ## Work in progress。。。 🚧
 
 
-# Getting Started
+## Getting Started
 - Clone the repository.
 - Navigate to the project of interest.
 - Follow the instructions in the project's README.
 
-# License
+## License
 This repository is licensed under MIT License.
