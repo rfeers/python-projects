@@ -7,6 +7,10 @@ Welcome to the Python Projects Repository! This repository is a collection of di
 - **Description:** This project involves creating an interactive map using `Folium`and python to visualize geographic data.
 - **Skills:** Data handling, interactive mapping, Folium library.
 
+## 2. Defining concepts algorithms
+- **Description:** This project involves creating an algorithm that provides a definition using an API, the `Transformers` library.
+- **Skills:** API handling, Basic usage of HuggingFace Transformer library.
+
 ## Work in progress。。。 🚧
 
 
