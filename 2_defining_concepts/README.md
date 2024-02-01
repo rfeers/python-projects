@@ -1,4 +1,4 @@
-# Project 2 - Defininf concepts
+# Project 2 - Defining concepts
 
 Basic Python project to generate a defining algorithm. The user is aked to enter an input word and the corresponding definition is provided. 
 
